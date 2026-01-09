@@ -1,7 +1,7 @@
 # DANH MỤC DỰ ÁN KỸ THUẬT
 
 ## 1. Đồ án tốt nghiệp: Hệ thống trường học thông minh
-![Ảnh mô hình]()
+Ảnh mô hình
 
 ## 2. Thực tập doanh nghiệp
-![Ảnh thực tập](Thuc-tap-doanh-nghiệp/)
+Ảnh thực tập
